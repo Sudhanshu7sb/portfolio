@@ -4,13 +4,13 @@ let projectData = [
     description: "This is like twitter you can add tweet ,edit tweet, delete tweet , view others tweet ",
     websiteLink: "https://bird-social-media-by-sudhanshu.netlify.app/",
     githubLink: "https://github.com/Sudhanshu7sb/Bird-social-media",
-    image: "/images/shopping.gif",
+    image: "/images/bird-app.gif",
   },{
     name: "Tesla clone",
     description: "This is tesla clone with react-router-dom,showing products ",
     websiteLink: "https://tesla-clone-reactjs-by-sudhanshu.netlify.app/",
     githubLink: "https://github.com/Sudhanshu7sb/tesla-clone",
-    image: "/images/shopping.gif",
+    image: "/images/tesla.gif",
   },{
     name: "Shopping Cart",
     description: "This is like a e-commerce where you can add products to cart",
