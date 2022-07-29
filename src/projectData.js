@@ -1,5 +1,17 @@
 let projectData = [
   {
+    name: "Bird-social-media",
+    description: "This is like twitter you can add tweet ,edit tweet, delete tweet , view others tweet ",
+    websiteLink: "https://bird-social-media-by-sudhanshu.netlify.app/",
+    githubLink: "https://github.com/Sudhanshu7sb/Bird-social-media",
+    image: "/images/shopping.gif",
+  },{
+    name: "Tesla clone",
+    description: "This is tesla clone with react-router-dom,showing products ",
+    websiteLink: "https://tesla-clone-reactjs-by-sudhanshu.netlify.app/",
+    githubLink: "https://github.com/Sudhanshu7sb/tesla-clone",
+    image: "/images/shopping.gif",
+  },{
     name: "Shopping Cart",
     description: "This is like a e-commerce where you can add products to cart",
     websiteLink: "",
