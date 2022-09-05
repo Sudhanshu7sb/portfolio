@@ -16,7 +16,7 @@ let projectData = [
     description: "This is a quiz app , answer question in given time and score points ",
     websiteLink: "https://react-quiz-app-by-sudhanshu.netlify.app/",
     githubLink: "https://github.com/Sudhanshu7sb/react-quiz-app",
-    image: "/images/tesla.gif",
+    image: "/images/react-quiz-app.gif",
   }
   ,{
     name: "Shopping Cart",
