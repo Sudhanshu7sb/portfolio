@@ -12,6 +12,13 @@ let projectData = [
     githubLink: "https://github.com/Sudhanshu7sb/tesla-clone",
     image: "/images/tesla.gif",
   },{
+    name: "React Quiz App",
+    description: "This is a quiz app , answer question in given time and score points ",
+    websiteLink: "https://react-quiz-app-by-sudhanshu.netlify.app/",
+    githubLink: "https://github.com/Sudhanshu7sb/react-quiz-app",
+    image: "/images/tesla.gif",
+  }
+  ,{
     name: "Shopping Cart",
     description: "This is like a e-commerce where you can add products to cart",
     websiteLink: "",
@@ -37,15 +44,14 @@ let projectData = [
     name: "Frontend50",
     description:
       "The most complete frontend learning guide to front-end development!",
-    websiteLink:
-      "https://chrome.google.com/webstore/detail/frontend-50/ihinimimogofhkjebjhaadnlnbpajfmi",
+    websiteLink:"https://twitter.com/i/status/1270762838357729280",
     githubLink: "https://github.com/Sudhanshu7sb/frontend-50",
     image: "/images/frontend50.gif",
   },
   {
     name: "aasmaadhar.com",
     description: "A website for an Architechtural Company",
-    websiteLink: "https://asmaadhar.com/",
+    websiteLink: "https://twitter.com/Sudhanshu7sb/status/1266793674181980163",
     githubLink: "https://github.com/AltCampus/asma-adhar",
     image: "/images/aasmaadhar.png",
   },
