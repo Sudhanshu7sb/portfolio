@@ -1,11 +1,26 @@
 let projectData = [
   {
+    name: "Ecommerce app",
+    description: `This is a e-commerce where you can signup/login ,add products to cart(CRUD) with filtering option`,
+    websiteLink: "https://teerex-store-sudhanshu7sb.vercel.app/",
+    githubLink: "https://github.com/Sudhanshu7sb/TeeRex-Store",
+    image: "/images/estore.gif",
+  },
+  {
     name: "Bird-social-media",
     description: "This is like twitter you can add tweet ,edit tweet, delete tweet , view others tweet ",
     websiteLink: "https://bird-social-media-by-sudhanshu.netlify.app/",
     githubLink: "https://github.com/Sudhanshu7sb/Bird-social-media",
     image: "/images/bird-app.gif",
-  },{
+  },
+  {
+    name: "BingeTube",
+    description: `This is a youtube clone where data is fetched and played as in actual app`,
+    websiteLink: "https://bingetube-by-sudhanshu.netlify.app/",
+    githubLink: "https://github.com/Sudhanshu7sb/bingetube",
+    image: "/images/bingetube.gif",
+  },
+  {
     name: "Tesla clone",
     description: "This is tesla clone with react-router-dom,showing products ",
     websiteLink: "https://tesla-clone-reactjs-by-sudhanshu.netlify.app/",
@@ -19,12 +34,13 @@ let projectData = [
     image: "/images/react-quiz-app.gif",
   }
   ,{
-    name: "Shopping Cart",
-    description: "This is like a e-commerce where you can add products to cart",
-    websiteLink: "",
-    githubLink: "https://github.com/Sudhanshu7sb/react-shopping-cart",
-    image: "/images/shopping.gif",
+    name: "TeeRex Store",
+    description: "This is like a e-commerce where you can add products to cart(CRUD) with filtering option",
+    websiteLink: "https://teerex-store-sudhanshu7sb.vercel.app/",
+    githubLink: "https://github.com/Sudhanshu7sb/TeeRex-Store",
+    image: "/images/teerexstore.gif",
   },
+ 
   {
     name: "Trello Clone",
     description: "This is a advanced Todo list with Boards and List CRUD",
